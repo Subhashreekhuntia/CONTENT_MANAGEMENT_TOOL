@@ -1,0 +1,147 @@
+ 
+ body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(96, 111, 210, 0.59);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: double underline;
+}
+
+.input-section {
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+
+.label-section {
+    text-decoration: wavy;
+    font-size: 0.5cm;
+    color: rgb(14, 13, 13);
+}
+
+.div-section {
+    height: 5vh;
+    width: 50vw;
+    border-radius: 22px;
+    padding: 10px;
+    margin: 0.5cm;
+    background-color: rgb(213, 210, 206);
+}
+
+.preview {
+    width: 15cm;
+    height: 15cm;
+}
+
+.video-preview {
+    width: 15cm;
+    height: auto;
+}
+
+.input-section label {
+    display: block;
+    margin-bottom: 5px;
+    width: 50%;
+}
+
+.input-section input[type="text"],
+.input-section input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    padding-left: 50px;
+}
+
+.button-section {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.button-section button {
+    padding: 10px 20px;
+    font-size: 16px;
+    text-decoration: dotted underline;
+    border-radius: 10px;
+}
+
+.data-container {
+    max-height: 200px;
+     
+}
+
+.box {
+    border: 1px solid grey;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    background-image: url("/flw.jpg");
+    background-size: cover;
+    background-position: center;
+    overflow-y: scroll;
+
+}
+
+.box-header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.box-title {
+    margin: 0;
+}
+
+.box-body {
+    margin-top: 10px;
+    color: #141414;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
